@@ -1,0 +1,8 @@
+skeleton_veter.png
+size:2048,16
+filter:Linear,Linear
+pma:true
+veter_1
+bounds:841,0,464,14
+veter_2
+bounds:0,0,841,14
